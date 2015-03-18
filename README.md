@@ -1,9 +1,9 @@
-Some code experiments while reading the "Learn JS Data" from Bocoup:
+Some code experiments done while reading the "Learn JS Data" from Bocoup:
 
-http://learnjsdata.com/getting_started.html
+http://learnjsdata.com/
 
-Files are server via a local server (for instance, the [`http-server` module](https://github.com/indexzero/http-server) from NPM):
+Files are served via a local server (using the [`http-server` module](https://github.com/indexzero/http-server) from NPM):
 
-```
+```js
 http-server ./ -p 7000
 ```
