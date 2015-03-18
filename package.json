@@ -1,0 +1,9 @@
+{
+  "version": "0.0.1",
+  "name": "learn-js-data",
+  "dependencies": {
+    "d3": "*",
+    "lodash": "*",
+    "queue-async": "^1.0.7"
+  }
+}
